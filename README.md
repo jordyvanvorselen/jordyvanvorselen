@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Jordy van Vorselen, Freelance Lead Engineer. I make software teams ship faster. Measured, not vibes.">
+  <img src="assets/banner.svg" width="100%" alt="Jordy van Vorselen, Freelance Lead Engineer. I help teams ship faster. Measured, not vibes.">
 </p>
 
 <p align="center">

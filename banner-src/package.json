@@ -1,0 +1,10 @@
+{
+  "name": "readme-banner",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "satori": "^0.34.0",
+    "satori-html": "^0.3.2",
+    "sharp": "^0.35.5"
+  }
+}

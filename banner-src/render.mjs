@@ -36,12 +36,11 @@ const markup = html(`
     <div style="display:flex;font-size:32px;font-weight:300;color:#d1d5db;margin-top:14px">Freelance Lead Engineer</div>
 
     <div style="display:flex;flex-wrap:wrap;font-size:21px;color:#d1d5db;margin-top:34px;line-height:1.55">
-      <span style="margin-right:6px">I make software teams</span><span style="font-weight:700;color:#ffffff">ship faster</span><span>. Measured, not vibes.</span>
+      <span style="margin-right:6px">I help teams</span><span style="font-weight:700;color:#ffffff">ship faster</span><span>. Measured, not vibes.</span>
     </div>
     <div style="display:flex;flex-wrap:wrap;font-size:21px;color:#d1d5db;line-height:1.55">
-      <span style="margin-right:6px">Ten years in teams building</span><span style="font-weight:700;color:#ffffff">mission-critical software</span><span>:</span>
+      <span style="margin-right:6px">Ten years in teams building</span><span style="font-weight:700;color:#ffffff">mission-critical software</span><span>.</span>
     </div>
-    <div style="display:flex;font-size:21px;color:#d1d5db;line-height:1.55">Fire Safety, Semiconductors and SaaS.</div>
 
     <div style="display:flex;align-items:center;font-size:15.5px;color:#9ca3af;margin-top:40px;white-space:nowrap">
       <div style="display:flex;margin-right:10px">${trendingUp}</div>

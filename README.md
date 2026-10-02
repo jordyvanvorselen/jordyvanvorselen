@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/status-open%20for%20teams-14b8a6?style=for-the-badge&labelColor=0b1220" alt="status open for teams"> <img src="https://img.shields.io/badge/focus-AI--native%20delivery-3b82f6?style=for-the-badge&labelColor=0b1220" alt="focus AI-native delivery"> <img src="https://img.shields.io/badge/practice-ATDD%20%C2%B7%20CD%20%C2%B7%20DDD-a78bfa?style=for-the-badge&labelColor=0b1220" alt="practice ATDD · CD · DDD"> <img src="https://img.shields.io/badge/hours-EU%20%26%20US%20time%20zones-f59e0b?style=for-the-badge&labelColor=0b1220" alt="hours EU &amp; US time zones">
 </p>
 
-### I make the whole team ship faster.
+### I help teams ship faster.
 
 Not by typing faster. By installing the rails that let a team **trust its own speed**:
 
